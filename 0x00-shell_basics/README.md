@@ -1,1 +1,1 @@
-a command that lists the contents of current directory
+a command that changes back to users home directory

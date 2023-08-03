@@ -1,1 +1,1 @@
-a command that changes back to users home directory
+a command that will list all files
